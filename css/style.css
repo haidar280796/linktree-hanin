@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Nunito+Sans&display=swap');
+
+.bg-gradient {
+    background-image: linear-gradient(90deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+}
+
+.img-profile-wrapper {
+    width: 80px;
+    height: 80px;
+}
+
+.img-profile {
+    width: auto;
+    height: 80px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.owner {
+    font-family: 'Nunito', sans-serif;
+}
+
+.box-shadow-btn {
+    -moz-box-shadow:    6px 6px 0px 0px #000;
+    -webkit-box-shadow: 6px 6px 0px 0px #000;
+    box-shadow:         6px 6px 0px 0px #000;
+}
